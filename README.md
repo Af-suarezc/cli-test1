@@ -7,7 +7,7 @@ Please download the files, set your working directory where the files are locate
 
 ### Prerequisites
 
-Its necessary to have preinstalled Node js
+Its necessary to have preinstalled Node js.
 In Windows, you can install it by using
 
 ```
@@ -19,7 +19,7 @@ winget install OpenJS.NodeJS.LTS
 
 ### Installing
 
-Install the necessary dependencies used by the script by open the terminal and type the following command
+Install the necessary dependencies used in the script by opening the project root folder in the terminal and type the following command
 
 ```
 npm install package.json
